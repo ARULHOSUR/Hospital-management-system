@@ -95,15 +95,24 @@ The system follows a **client-server architecture**:
 - REST API design and integration
 - Database design and management
 - Authentication and security implementation
+ 
+ ---
 
----
+ 🤝 Contribution Guidelines
 
-## 🤝 Contribution
+Fork the repository
 
-Contributions are welcome.  
-Fork the repository, make changes, and submit a pull request.
+Create a new branch
 
----
+Commit your changes
+
+Push to the branch
+
+Open a Pull Request
+
+---  
+
+
 
 ## 📄 License
 
@@ -113,11 +122,10 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author
 
-**Your Name**  
-Department: Computer Science  
-Institution: Your College Name  
-Email: your-email@example.com  
-
+**H R S ARUL**  
+📧 Email: arulhosur409@gmail.com
+🌐 GitHub: https://github.com/ARULHOSUR
 ---
 
-⭐ If you find this project useful, please give it a star!
+
+
