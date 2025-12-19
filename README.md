@@ -124,7 +124,7 @@ This project is licensed under the **MIT License**.
 
 **H R S ARUL**  
 
-📧 Email: arulhosur409@gmail.com
+<strong>📧 Email: arulhosur409@gmail.com</strong>
 
 🌐 GitHub: https://github.com/ARULHOSUR
 ---
